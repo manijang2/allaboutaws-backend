@@ -1,6 +1,7 @@
 boto3==1.20.24
 botocore==1.23.24
 click==8.0.3
+Deprecated==1.2.13
 Flask==2.0.2
 Flask-Cors==3.0.10
 Flask-MySQL==1.5.2
@@ -10,7 +11,9 @@ jmespath==0.10.0
 MarkupSafe==2.0.1
 PyMySQL==1.0.2
 python-dateutil==2.8.2
+redis==4.0.2
 s3transfer==0.5.0
 six==1.16.0
 urllib3==1.26.7
 Werkzeug==2.0.2
+wrapt==1.13.3
